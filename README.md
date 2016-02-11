@@ -1,3 +1,3 @@
 # jQuery-Thumbslider
 
-Thumbslider very similar to the thumbslider on Apple.
+Thumbslider very similar to the one on Apple.
